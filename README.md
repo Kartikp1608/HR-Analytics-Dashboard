@@ -25,7 +25,8 @@ This project analyzes employee attrition using IBM HR data to uncover trends rel
 - **Scatter Plot**: Years at Company vs Monthly Income by Attrition  
 - **Heatmap**: Job Satisfaction vs Work-Life Balance vs Attrition  
 - **Slicers**: Gender, JobLevel, BusinessTravel, EducationField, MaritalStatus
-![Screenshot 2025-05-21 114801](https://github.com/user-attachments/assets/43813f65-ce0c-4869-a079-5f4c088a15c4)
+
+![Screenshot 2025-05-21 115336](https://github.com/user-attachments/assets/b0f89240-262e-4b1e-a6cf-7e993e399eb6)
 
 
 ---
